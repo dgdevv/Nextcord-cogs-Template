@@ -1,1 +1,1 @@
-# pyBOT
+**Cogs template for Nextcode**
